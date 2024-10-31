@@ -1,0 +1,1 @@
+let nand1 a b = not(a && b);;
